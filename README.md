@@ -3,8 +3,8 @@ Hello, world! 👋
 
 # I'm Dong
 
- WWDC24 Swift Student Challenge Winner
-A full stack developer, iOS developer @Taipei, Taiwan
+ WWDC24 Swift Student Challenge Winner \
+A full stack developer, iOS developer @Taipei, Taiwan \
 A bachelor of Management Information System @NCCU
 
 ### Currently working on
