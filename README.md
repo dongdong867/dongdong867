@@ -12,4 +12,4 @@ A bachelor of Management Information System @NCCU
 - CSRone NLP research - Optimizing manual workflow with the power of Large Language Model.
 - [OpenNCCU App (Close source)](https://opennccu.com) - A digital platform aiming to solve campus issues and redesign digital services.
 - OpenNCCU What2Eat (Close source) - A gourmet community promote people interaction through restaurant collections.
-- Cheers (Ongoing) - A large language model (LLM) based multi-user chat assistant (MUCA) with recommendation system application.
+- Cheers (Ongoing) - A large language model (LLM) based multi-user chat assistant (MUCA) with recommendation system.
